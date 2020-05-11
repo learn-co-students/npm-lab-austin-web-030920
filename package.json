@@ -1,0 +1,22 @@
+{
+  "name": "color",
+  "version": "1.0.0",
+  "description": "lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo: 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juzzi4/npm-lab-austin-web-030920.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juzzi4/npm-lab-austin-web-030920/issues"
+  },
+  "homepage": "https://github.com/Juzzi4/npm-lab-austin-web-030920#readme",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
